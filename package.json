@@ -1,0 +1,19 @@
+{
+  "name": "react_user_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibo777/React_User_App.git"
+  },
+  "author": "vaibhav bunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibo777/React_User_App/issues"
+  },
+  "homepage": "https://github.com/vibo777/React_User_App#readme"
+}
